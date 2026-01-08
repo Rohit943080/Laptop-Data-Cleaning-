@@ -27,3 +27,10 @@ Created New Feature like
 - has ips panel
 - has touch screen
 
+SQL Techniques Used: CASE WHEN logic| String functions (REPLACE, SUBSTRING, LIKE) | Regular Expression (REGEXP)
+
+
+Author
+Rohit Raj
+Aspiring Data Analyst
+Skills: SQL | Data Cleaning | Feature Engineering | Analytics
